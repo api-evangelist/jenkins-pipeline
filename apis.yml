@@ -1,0 +1,17 @@
+name: Jenkins
+description: A suite of plugins that supports implementing and integrating continuous
+  delivery pipelines into Jenkins. It provides an extensible set of tools for modeling
+  simple-to-complex delivery pipelines as code via the Pipeline DSL.
+url: https://www.jenkins.io/doc/book/pipeline/
+tags:
+- CI/CD
+- Automation
+- DevOps
+- Continuous Integration
+- Continuous Delivery
+- Build Tool
+- Pipeline As Code
+created: '2025'
+modified: '2025'
+apis: []
+common: []
