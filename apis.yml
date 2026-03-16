@@ -1,17 +1,30 @@
-name: Jenkins
-description: A suite of plugins that supports implementing and integrating continuous
-  delivery pipelines into Jenkins. It provides an extensible set of tools for modeling
-  simple-to-complex delivery pipelines as code via the Pipeline DSL.
-url: https://www.jenkins.io/doc/book/pipeline/
+aid: jenkins-pipeline
+name: Jenkins Pipeline
+description: >-
+  Jenkins Pipeline is a suite of plugins that supports implementing and
+  integrating continuous delivery pipelines into Jenkins. It provides an
+  extensible set of tools for modeling simple-to-complex delivery pipelines
+  as code via the Pipeline DSL (domain-specific language).
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- CI/CD
-- Automation
-- DevOps
-- Continuous Integration
-- Continuous Delivery
-- Build Tool
-- Pipeline As Code
-created: '2025'
-modified: '2025'
+  - CI/CD
+  - Automation
+  - DevOps
+  - Continuous Integration
+  - Continuous Delivery
+  - Pipeline As Code
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/jenkins-pipeline/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.jenkins.io/doc/book/pipeline/
+  - type: Documentation
+    url: https://www.jenkins.io/doc/book/pipeline/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
