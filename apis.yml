@@ -8,12 +8,12 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - CI/CD
   - Automation
-  - DevOps
-  - Continuous Integration
+  - CI/CD
   - Continuous Delivery
-  - Pipeline As Code
+  - Continuous Integration
+  - DevOps
+  - Pipeline as Code
 url: >-
   https://raw.githubusercontent.com/api-evangelist/jenkins-pipeline/refs/heads/main/apis.yml
 created: '2025-01-01'
