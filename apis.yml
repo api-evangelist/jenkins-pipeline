@@ -8,7 +8,7 @@ description: >-
   steps) for modeling simple-to-complex CI/CD workflows that are versioned with
   application source code via a Jenkinsfile.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Automation
   - CI/CD
