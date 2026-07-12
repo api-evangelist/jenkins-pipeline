@@ -26,6 +26,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/jenkins-pipeline-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/jenkins-pipeline-domain-security.yml
   - type: Website
     url: https://www.jenkins.io/doc/book/pipeline/
   - type: Documentation
@@ -46,6 +50,8 @@ common:
     url: https://www.jenkins.io/doc/book/blueocean/
   - type: GitHub
     url: https://github.com/jenkinsci/pipeline-plugin
+  - url: https://feeds.feedburner.com/ContinuousBlog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
