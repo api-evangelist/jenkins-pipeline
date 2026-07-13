@@ -1,0 +1,14 @@
+{
+  "repo": "jenkins-pipeline",
+  "feeds": [
+    {
+      "source": "https://feeds.feedburner.com/ContinuousBlog/",
+      "feed_url": "https://feeds.feedburner.com/ContinuousBlog/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 50
+}
